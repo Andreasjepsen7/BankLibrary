@@ -1,0 +1,17 @@
+[
+  {
+    "AccountNumber": 1,
+    "AccountHolder": "Andreas Jepsen",
+    "Balance": 200.0
+  },
+  {
+    "AccountNumber": 2,
+    "AccountHolder": "Mikkel Sørensen",
+    "Balance": 50000.0
+  },
+  {
+    "AccountNumber": 3,
+    "AccountHolder": "Kaj Neupert",
+    "Balance": 10.0
+  }
+]
